@@ -1,0 +1,36 @@
+<resources>>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:textColor">#BABABA</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">23dp</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="Tittle">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="Detail">
+        <item name="android:textColor">#E6E6B8</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">13dp</item>
+        <item name="android:typeface">serif</item>
+    </style>
+</resources>
